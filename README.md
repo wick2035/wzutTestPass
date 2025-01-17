@@ -34,7 +34,7 @@
 
 感谢以下同学为项目作出的贡献：
 
-- [@贡献者1](https://github.com/贡献者1)
+- [@scarftk](https://github.com/scarftk)
 - [@贡献者2](https://github.com/贡献者2)
 
 如果你想参与贡献，我们非常欢迎。
